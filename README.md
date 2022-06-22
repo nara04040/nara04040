@@ -1,10 +1,14 @@
-<br>
-<h1>🖐🏼👦🏻 Hi! I'm Jin. Welcome to my GitHub</h1>
+<h1>🧐Who am I?</h1>
 
-<br><br><br><br><br>
+```sh
+let age = 26
+const my_dream = "developer"
+console.log("Dev.Jin")
+```
+<br><br><br>
 
 
-<h2>My Tech Stack</h2>
+<div><h2 style="color:red">My Tech Stack</h2></div>
   <div>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/>
