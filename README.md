@@ -1,5 +1,7 @@
+<br>
 <h1>🖐🏼👦🏻 Hi! I'm Jin. Welcome to my GitHub</h1>
-<br><br><br>
+
+<br><br><br><br><br>
 
 
 <h2>My Tech Stack</h2>
@@ -15,7 +17,8 @@
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   </div>
-<br><br><br>
+  
+<br><br><br><br><br>
 
 
 
