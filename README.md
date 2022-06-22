@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Dev.Jin&animation=fadeIn?theme=dracula)
-
+<h1>🖐🏼👦🏻 Hi! I'm Jin. Welcome to my GitHub</h1>
 <br><br><br>
 
 
@@ -11,6 +10,11 @@
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   </div>
+  <div>
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  </div>
 <br><br><br>
 
 
@@ -21,8 +25,3 @@
   
 
 
-
-
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
