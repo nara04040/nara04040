@@ -1,12 +1,12 @@
 <h1>🧐Who am I?</h1>
 
 ```sh
-function whoAmI(){
+function devJin(){
 let age = 26
 const my_dream = "developer"
 const my_name = "유한나라"
-console.log("Dev.Jin")
 }
+console.log(devJin)
 ```
 <br><br><br>
 
