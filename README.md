@@ -21,7 +21,7 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   </div>
   
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nara04040&show_icons=true&theme=dracula)
