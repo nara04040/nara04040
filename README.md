@@ -1,6 +1,6 @@
 <h1>🧐Who am I?</h1>
 
-<br>오늘보다 더 나은 내일위해서! <br><br>
+<br>Frontend Developer Jin!<br><br>
 
 
 <div><h2 style="color:red">My Tech Stack</h2></div>
