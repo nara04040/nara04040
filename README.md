@@ -1,6 +1,6 @@
 <h1>🧐Who am I?</h1>
 
-<br>Frontend Developer Jin!<br><br>
+<br>I hope Frontend Developer Jin!<br><br>
 
 
 <div><h2 style="color:red">My Tech Stack</h2></div>
