@@ -3,7 +3,7 @@
 <br>I hope Frontend Developer Jin!<br><br>
 
 
-<div><h2 style="color:red">My Tech Stack</h2></div>
+<div><h2 style="color:red">skills</h2></div>
   <div>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS&logoColor=white"/>
