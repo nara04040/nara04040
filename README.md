@@ -1,7 +1,5 @@
 <h1>🧐Who am I?</h1>
 
-<br>I hope Frontend Developer Jin!<br><br>
-
 
 <div><h2 style="color:red">skills</h2></div>
   <div>
