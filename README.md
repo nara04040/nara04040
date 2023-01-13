@@ -1,5 +1,6 @@
-<h1>🧐Who am I?</h1>
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Dev%20Jin&fontSize=40&animation=twinkling)
 
+<br><br>
 
 <div><h2 style="color:red">skills</h2></div>
   <div>
@@ -20,6 +21,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br><br>
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Dev%20Jin&fontSize=40&animation=twinkling)
