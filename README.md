@@ -18,3 +18,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nara04040&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br><br>
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Dev%20Jin&fontSize=40&animation=twinkling)
