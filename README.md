@@ -18,7 +18,7 @@
  <br>
  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 </p>
   
 <br>
@@ -34,10 +34,8 @@
 
 <br>
 
-<h2 align='left'>
- <p>🥋My Blog : https://nara04040.tistory.com/</p> 
-</h2>
-
+<h2 align='left'>🥋My Blog</h2>
+<img src="https://img.shields.io/badge/DevJin-000000?style=flat&logo=Tistory&logoColor=white"/>
 
   
 <br><br>
