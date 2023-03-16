@@ -23,7 +23,7 @@
   
 <br>
 
-<h3 align='left'>👟 Foot print</h3>
+<h2 align='left'>👟 Foot print</h2>
 <ul>
 <li align='left'> 그린컴퓨터학원 프론트엔드과정 2022.06 ~ 2022.11 </li>
 <li align='left'> NextStep TDD, 클린 코드 with JavaScript TDD 2022.11 ~ 2022.12 </li>
@@ -34,9 +34,9 @@
 
 <br>
 
-<h3 align='left'>
+<h2 align='left'>
  <p>🥋My Blog : https://nara04040.tistory.com/</p> 
-</h3>
+</h2>
 
 
   
