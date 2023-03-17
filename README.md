@@ -35,7 +35,7 @@
 <br>
 
 <h2 align='left'>🥋My Blog</h2>
-<img src="https://img.shields.io/badge/DevJin-000000?style=flat&logo=Tistory&logoColor=white"/>
+<a href="https://nara04040.tistory.com/"><img src="https://img.shields.io/badge/DevJin-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
   
 <br><br>
