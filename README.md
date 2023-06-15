@@ -25,7 +25,6 @@
 
 <h2 align='left'>👟 Foot print</h2>
 <ul>
-<li align='left'> 그린컴퓨터학원 프론트엔드과정 2022.06 ~ 2022.11 </li>
 <li align='left'> NextStep TDD, 클린 코드 with JavaScript TDD 2022.11 ~ 2022.12 </li>
 <li align='left'> 우아한테크코스 프리코스 참가 2022.11 ~ 2022.12 </li>
 <li align='left'> FE재남님과 함께하는 React-Docs 번역스터디 2023.03 ~ ing </li>
