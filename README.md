@@ -29,7 +29,7 @@
 <li align='left'> 우아한테크코스 프리코스 참가 2022.11 ~ 2022.12 </li>
 <li align='left'> FE재남님과 함께하는 React-Docs 번역스터디 2023.03 ~ ing </li>
 <li align='left'> F-Lab 프론트엔드 멘토링과정 2023.01 ~ ing </li>
- <li align='left'> NomadCode TypeScript 챌린지 2023.03 ~ 2023.03 </li>
+<li align='left'> NomadCode TypeScript 챌린지 2023.03 ~ 2023.03 </li>
 </ul>
 
 <br>
