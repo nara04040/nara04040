@@ -20,18 +20,11 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 </p>
-
 <br>
-
 <h2 align='left'>🥋My Blog</h2>
 <a href="https://velog.io/@jin04040"><img src="https://img.shields.io/badge/DevJin-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-
-  
 <br><br>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nara04040&show_icons=true&theme=dracula) 
-
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnara04040&count_bg=%2378AAFF&title_bg=%23D586FF&icon=&icon_color=%2362B1E9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
