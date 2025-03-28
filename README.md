@@ -21,9 +21,6 @@
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 </p>
 <br>
-<h2 align='left'>🥋My Blog</h2>
-<a href="https://velog.io/@jin04040"><img src="https://img.shields.io/badge/DevJin-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nara04040&show_icons=true&theme=dracula) 
 
